@@ -11,8 +11,6 @@ FitBro is a front-end fitness web app built with React. It features a clean layo
 
 ## Setup
 
-## Setup
-
 1. Clone the repository:
 
     ```bash
