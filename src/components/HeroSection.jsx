@@ -6,7 +6,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
         <video src="/videos/video-1.mp4" autoPlay loop muted /> 
-        <h1>Unleash the true self</h1>
+        <h1>Unleash the true power</h1>
         <p>Download FitBro from Google Playstore to unlock your potential.</p>
 
         <div className='hero-btns'>
