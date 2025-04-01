@@ -1,6 +1,6 @@
 # FitBro
 
-FitBro is a front-end fitness web app built with React. It features a clean layout, responsive design, and custom components that simulate a real fitness mobile app experience.
+FitBro is a front-end fitness web app built with React. It features a clean layout, responsive design, and custom components .
 
 ## Technologies
 
