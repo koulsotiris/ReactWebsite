@@ -10,7 +10,7 @@ export default function UnderConstructure() {
         <FaHardHat className="icon bounce" />
         <FaTools className="icon spin" />
       </div>
-      <h1>Oops! This page is under constructure </h1>
+      <h1>Oops! This page is under construction </h1>
       <p>We're probably too busy lifting some weights at this moment.</p>
       <p>Either way, this page will be deadlifted soon </p>
       <span className="mini-tag">~ FitBro Dev Team</span>
